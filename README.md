@@ -1,0 +1,2 @@
+# INSG
+Text based Cryptocurency
